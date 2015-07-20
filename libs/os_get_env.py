@@ -49,7 +49,7 @@ class OSUtils(object):
         gbpclient = self.get_gbp_client_by_tenant(tenant[1])
         ptgs = gbpclient.list_policy_target_groups()['policy_target_groups']
         ptg_list_by_tenant = [ ptg for ptg in ptgs if ptg['tenant_id'] == tenant[0] ]
-        self.logger.info('\n*\n*\t\tPloicy Target Groups for %s\n*' %(tenant[1]))
+        self.logger.info('\n*\n*\t\tPolicy Target Groups for %s\n*' %(tenant[1]))
         for ptg in ptg_list_by_tenant:
             self.logger.info(ptg['name'])
         return ptg_list_by_tenant
