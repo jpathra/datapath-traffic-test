@@ -10,7 +10,6 @@ logging.config.fileConfig('conf/logging.ini')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 def main():
-    print 'I am here'
     logger.info('Start the program')
     logger.info('Initialize OSUtils')
 
@@ -24,4 +23,5 @@ def main():
         osutils.get_gbp_ptgs_by_tenant(tenant)
     logger.info('end of main')
 
-main()
+if __name__ == '__main__':
+    main()
