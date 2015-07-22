@@ -127,3 +127,2812 @@
 *		Policy Target Groups for admin
 *
 2015-07-20 04:47:26,434 - __main__ - INFO - end of main
+2015-07-21 04:01:58,615 - __main__ - INFO - Start the program
+2015-07-21 04:01:58,615 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:01:58,803 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:01:58,803 - __main__ - INFO - Get tenant details
+2015-07-21 04:01:58,803 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:01:58,897 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:01:58,897 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:01:58,897 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:01:58,897 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:01:59,208 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:01:59,209 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:01:59,532 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:01:59,532 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:01:59,890 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:01:59,890 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:00,229 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:02:00,229 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:02:00,229 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:00,568 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:02:00,568 - libs.os_get_env - INFO - l2p
+2015-07-21 04:02:00,568 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:00,956 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:02:00,957 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:02:00,957 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:01,227 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:02:01,227 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:01,614 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:02:01,614 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:02,087 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:02:02,087 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:02,370 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:02:02,370 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:02:02,370 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:02,645 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:02:02,645 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:02:02,645 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:02:02,645 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:02:02,646 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:02:02,646 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:02,999 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:02:02,999 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:02:02,999 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:02:02,999 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:02:02,999 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:02:03,000 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:02:03,000 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:02:03,000 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:03,358 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:02:03,358 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:02:03,358 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:02:03,695 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:04,037 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:02:04,037 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:02:04,037 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:02:04,037 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:02:04,038 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:02:04,038 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:02:04,038 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:02:04,038 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:04,338 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:02:04,338 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:04,655 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:02:04,655 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:02:05,029 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:02:05,029 - __main__ - INFO - end of main
+2015-07-21 04:02:05,029 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:02:05,029 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:02:05,066 - paramiko.transport - DEBUG - starting thread (client mode): 0x69ec950L
+2015-07-21 04:02:05,066 - paramiko.transport - DEBUG - starting thread (client mode): 0x69ec910L
+2015-07-21 04:02:05,086 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:02:05,086 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:02:05,103 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:02:05,103 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:02:05,104 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:02:05,104 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:02:05,104 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:02:05,104 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:02:05,184 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:02:05,185 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:02:05,185 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.30.120.46: d8a7e5322dc17f58971c96b4697e4f78
+2015-07-21 04:02:05,187 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:02:05,187 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:02:05,260 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:02:05,260 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:02:05,357 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:02:05,365 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:02:05,388 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:02:05,388 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:02:05,405 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:02:05,405 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:02:05,406 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:02:05,425 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:02:05,427 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:02:05,438 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:02:05,454 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:02:05,455 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:02:05,459 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:02:05,474 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:02:05,479 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:02:05,500 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:02:05,580 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:02:05,581 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:02:05,600 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:02:05,601 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:12:43,642 - __main__ - INFO - Start the program
+2015-07-21 04:12:43,643 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:12:43,823 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:12:43,823 - __main__ - INFO - Get tenant details
+2015-07-21 04:12:43,824 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:12:43,902 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:12:43,902 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:12:43,902 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:12:43,902 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:44,291 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:12:44,292 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:44,594 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:12:44,595 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:44,980 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:12:44,980 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:45,295 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:12:45,296 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:12:45,296 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:45,743 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:12:45,743 - libs.os_get_env - INFO - l2p
+2015-07-21 04:12:45,743 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:46,195 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:12:46,196 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:12:46,196 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:46,553 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:12:46,553 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:46,864 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:12:46,864 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:47,211 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:12:47,211 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:47,503 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:12:47,504 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:12:47,504 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:47,803 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:12:47,803 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:12:47,803 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:12:47,803 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:12:47,803 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:12:47,804 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:48,186 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:12:48,186 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:12:48,186 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:12:48,186 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:12:48,186 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:12:48,187 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:12:48,187 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:12:48,187 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:48,449 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:12:48,449 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:12:48,449 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:49,115 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:12:49,115 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:12:49,115 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:12:49,116 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:12:49,116 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:12:49,116 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:49,472 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:12:49,472 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:12:49,473 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:49,752 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:12:49,752 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:50,045 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:12:50,045 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:12:50,393 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:12:50,393 - __main__ - INFO - end of main
+2015-07-21 04:12:50,393 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:12:50,394 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:12:50,425 - paramiko.transport - DEBUG - starting thread (client mode): 0x4743910L
+2015-07-21 04:12:50,430 - paramiko.transport - DEBUG - starting thread (client mode): 0x4743950L
+2015-07-21 04:12:50,445 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:12:50,450 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:12:50,461 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:12:50,462 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:12:50,462 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:12:50,467 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:12:50,468 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:12:50,468 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:12:50,552 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:12:50,553 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:12:50,556 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.30.120.46: d8a7e5322dc17f58971c96b4697e4f78
+2015-07-21 04:12:50,557 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:12:50,558 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:12:50,619 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:12:50,625 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:12:50,728 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:12:50,733 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:12:50,759 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:12:50,767 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:12:50,781 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:12:50,788 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:12:50,809 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:12:50,812 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:12:50,827 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:12:50,828 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:12:50,833 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:12:50,833 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:12:50,859 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:12:50,864 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:12:50,875 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:12:50,889 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:12:50,977 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:12:50,977 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:12:50,986 - libs.test_fabric - DEBUG - Host 10.30.120.46 runs (
+2015-07-21 04:12:50,989 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:12:50,990 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:12:50,996 - libs.test_fabric - DEBUG - Host 10.30.120.45 runs (
+2015-07-21 04:14:45,190 - __main__ - INFO - Start the program
+2015-07-21 04:14:45,190 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:14:45,368 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:14:45,368 - __main__ - INFO - Get tenant details
+2015-07-21 04:14:45,369 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:14:45,457 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:14:45,457 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:14:45,458 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:14:45,458 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:45,775 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:14:45,776 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:46,078 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:14:46,078 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:46,619 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:14:46,619 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:46,916 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:14:46,916 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:14:46,916 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:47,237 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:14:47,237 - libs.os_get_env - INFO - l2p
+2015-07-21 04:14:47,238 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:47,581 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:14:47,581 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:14:47,581 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:47,855 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:14:47,855 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:48,148 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:14:48,148 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:48,509 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:14:48,510 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:48,807 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:14:48,807 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:14:48,807 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:49,122 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:14:49,123 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:14:49,123 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:14:49,123 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:14:49,123 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:14:49,123 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:49,480 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:14:49,481 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:49,763 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:14:49,764 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:14:49,764 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:50,072 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:14:50,072 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:14:50,072 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:14:50,072 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:14:50,072 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:14:50,073 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:14:50,413 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:14:50,414 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:14:50,414 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:50,710 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:14:50,710 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:51,006 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:14:51,006 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:14:51,342 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:14:51,342 - __main__ - INFO - end of main
+2015-07-21 04:14:51,343 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:14:51,343 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:14:51,376 - paramiko.transport - DEBUG - starting thread (client mode): 0x8bec910L
+2015-07-21 04:14:51,376 - paramiko.transport - DEBUG - starting thread (client mode): 0x8bec950L
+2015-07-21 04:14:51,394 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:14:51,396 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:14:51,408 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:14:51,409 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:14:51,409 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:14:51,414 - paramiko.transport - DEBUG - kex algos:[u'curve25519-sha256@libssh.org', u'ecdh-sha2-nistp256', u'ecdh-sha2-nistp384', u'ecdh-sha2-nistp521', u'diffie-hellman-group-exchange-sha256', u'diffie-hellman-group-exchange-sha1', u'diffie-hellman-group14-sha1', u'diffie-hellman-group1-sha1'] server key:[u'ssh-rsa', u'ecdsa-sha2-nistp256', u'ssh-ed25519'] client encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] server encrypt:[u'aes128-ctr', u'aes192-ctr', u'aes256-ctr', u'arcfour256', u'arcfour128', u'aes128-gcm@openssh.com', u'aes256-gcm@openssh.com', u'chacha20-poly1305@openssh.com', u'aes128-cbc', u'3des-cbc', u'blowfish-cbc', u'cast128-cbc', u'aes192-cbc', u'aes256-cbc', u'arcfour', u'rijndael-cbc@lysator.liu.se'] client mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] server mac:[u'hmac-md5-etm@openssh.com', u'hmac-sha1-etm@openssh.com', u'umac-64-etm@openssh.com', u'umac-128-etm@openssh.com', u'hmac-sha2-256-etm@openssh.com', u'hmac-sha2-512-etm@openssh.com', u'hmac-ripemd160-etm@openssh.com', u'hmac-sha1-96-etm@openssh.com', u'hmac-md5-96-etm@openssh.com', u'hmac-md5', u'hmac-sha1', u'umac-64@openssh.com', u'umac-128@openssh.com', u'hmac-sha2-256', u'hmac-sha2-512', u'hmac-ripemd160', u'hmac-ripemd160@openssh.com', u'hmac-sha1-96', u'hmac-md5-96'] client compress:[u'none', u'zlib@openssh.com'] server compress:[u'none', u'zlib@openssh.com'] client lang:[u''] server lang:[u''] kex follows?False
+2015-07-21 04:14:51,414 - paramiko.transport - DEBUG - Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+2015-07-21 04:14:51,415 - paramiko.transport - DEBUG - using kex diffie-hellman-group14-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+2015-07-21 04:14:51,497 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:14:51,498 - paramiko.transport - DEBUG - Switch to new keys ...
+2015-07-21 04:14:51,500 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.30.120.46: d8a7e5322dc17f58971c96b4697e4f78
+2015-07-21 04:14:51,500 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:14:51,501 - paramiko.transport - DEBUG - Trying discovered key 4935aef8730d40933087f2fb568ebf71 in /Users/sabdha/.ssh/id_rsa
+2015-07-21 04:14:51,568 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:14:51,568 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:14:51,667 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:14:51,676 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:14:51,700 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:14:51,700 - paramiko.transport - DEBUG - userauth is OK
+2015-07-21 04:14:51,721 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:14:51,721 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:14:51,750 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:14:51,750 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2015-07-21 04:14:51,767 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:14:51,766 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2015-07-21 04:14:51,767 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:14:51,767 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2015-07-21 04:14:51,785 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:14:51,800 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:14:51,800 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:14:51,822 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2015-07-21 04:14:51,902 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:14:51,902 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:14:51,907 - libs.test_fabric - DEBUG - Host 10.30.120.45 runs (
+2015-07-21 04:14:51,918 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2015-07-21 04:14:51,919 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2015-07-21 04:14:51,926 - libs.test_fabric - DEBUG - Host 10.30.120.46 runs (
+2015-07-21 04:15:31,265 - __main__ - INFO - Start the program
+2015-07-21 04:15:31,265 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:15:31,576 - __main__ - INFO - Get tenant details
+2015-07-21 04:15:31,670 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:15:37,675 - __main__ - INFO - end of main
+2015-07-21 04:16:25,551 - __main__ - INFO - Start the program
+2015-07-21 04:16:25,551 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:16:25,716 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:16:25,717 - __main__ - INFO - Get tenant details
+2015-07-21 04:16:25,717 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:16:25,813 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:16:25,813 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:16:25,814 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:16:25,814 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:26,344 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:16:26,344 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:26,721 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:16:26,721 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:27,101 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:16:27,101 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:27,416 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:16:27,416 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:16:27,416 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:27,778 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:16:27,779 - libs.os_get_env - INFO - l2p
+2015-07-21 04:16:27,779 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:28,151 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:16:28,151 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:16:28,151 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:28,447 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:16:28,447 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:28,761 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:16:28,761 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:29,088 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:16:29,088 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:29,400 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:16:29,400 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:16:29,400 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:16:29,695 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:16:30,029 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:16:30,030 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:30,314 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:16:30,314 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:16:30,314 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:16:30,790 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:31,216 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:16:31,216 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:16:31,216 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:16:31,217 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:16:31,217 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:16:31,217 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:16:31,217 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:16:31,218 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:31,569 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:16:31,569 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:31,868 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:16:31,868 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:16:32,241 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:16:32,242 - __main__ - INFO - end of main
+2015-07-21 04:16:32,242 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:16:32,242 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:16:32,296 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:16:32,304 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:16:32,550 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:16:32,558 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:16:32,602 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:16:32,618 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:18:17,038 - __main__ - INFO - Start the program
+2015-07-21 04:18:17,038 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:18:17,228 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:18:17,228 - __main__ - INFO - Get tenant details
+2015-07-21 04:18:17,228 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:18:17,298 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:18:17,298 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:18:17,298 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:18:17,299 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:17,602 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:18:17,602 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:17,878 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:18:17,879 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:18,226 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:18:18,226 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:18,526 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:18:18,526 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:18:18,526 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:18,847 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:18:18,848 - libs.os_get_env - INFO - l2p
+2015-07-21 04:18:18,848 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:19,242 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:18:19,242 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:18:19,242 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:19,540 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:18:19,540 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:19,829 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:18:19,829 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:20,182 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:18:20,182 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:20,501 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:18:20,501 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:18:20,501 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:18:20,791 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:21,118 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:18:21,118 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:18:21,118 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:18:21,118 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:18:21,118 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:18:21,119 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:18:21,119 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:18:21,119 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:21,382 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:18:21,382 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:18:21,383 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:21,668 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:18:21,668 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:18:21,668 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:18:21,668 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:18:21,669 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:18:21,669 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:22,034 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:18:22,034 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:18:22,035 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:22,321 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:18:22,321 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:22,600 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:18:22,601 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:18:22,988 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:18:22,989 - __main__ - INFO - end of main
+2015-07-21 04:18:22,989 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:18:22,989 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:18:23,057 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:18:23,057 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:18:23,329 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:18:23,333 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:18:23,375 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:18:23,381 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:21:06,996 - __main__ - INFO - Start the program
+2015-07-21 04:21:06,996 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:21:07,181 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:21:07,181 - __main__ - INFO - Get tenant details
+2015-07-21 04:21:07,181 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:21:07,265 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:21:07,265 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:21:07,266 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:21:07,266 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:07,710 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:21:07,710 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:08,021 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:21:08,021 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:08,370 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:21:08,370 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:08,689 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:21:08,689 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:21:08,689 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:09,035 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:21:09,035 - libs.os_get_env - INFO - l2p
+2015-07-21 04:21:09,035 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:09,379 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:21:09,379 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:21:09,379 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:09,656 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:21:09,656 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:09,966 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:21:09,966 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:10,287 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:21:10,287 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:10,583 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:21:10,583 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:21:10,584 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:21:10,928 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:11,271 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:21:11,271 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:21:11,271 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:21:11,271 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:21:11,271 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:21:11,272 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:21:11,272 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:21:11,272 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:11,557 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:21:11,557 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:21:11,558 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:11,958 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:21:11,958 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:21:11,958 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:21:11,959 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:21:11,959 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:21:11,959 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:12,337 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:21:12,338 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:12,606 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:21:12,606 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:12,900 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:21:12,900 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:21:13,286 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:21:13,286 - __main__ - INFO - end of main
+2015-07-21 04:21:13,286 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:21:13,286 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:21:13,342 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:21:13,348 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:21:13,591 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:21:13,598 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:21:13,634 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:21:13,639 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:23:02,222 - __main__ - INFO - Start the program
+2015-07-21 04:23:02,222 - __main__ - INFO - Initialize OSUtils
+2015-07-21 04:23:02,402 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 04:23:02,402 - __main__ - INFO - Get tenant details
+2015-07-21 04:23:02,402 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 04:23:02,485 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 04:23:02,485 - libs.os_get_env - INFO - **************************************************
+2015-07-21 04:23:02,485 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 04:23:02,485 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:02,888 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 04:23:02,888 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:03,206 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 04:23:03,206 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:03,562 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 04:23:03,562 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:03,854 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 04:23:03,854 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 04:23:03,854 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:04,178 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 04:23:04,178 - libs.os_get_env - INFO - l2p
+2015-07-21 04:23:04,178 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:04,539 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 04:23:04,540 - libs.os_get_env - INFO - general_linux
+2015-07-21 04:23:04,540 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:04,825 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 04:23:04,825 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:05,116 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 04:23:05,116 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:05,609 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 04:23:05,610 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:05,894 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 04:23:05,894 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 04:23:05,894 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:06,173 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 04:23:06,174 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 04:23:06,174 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 04:23:06,174 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 04:23:06,174 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 04:23:06,174 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:06,513 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 04:23:06,513 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 04:23:06,513 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 04:23:06,513 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 04:23:06,514 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 04:23:06,514 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 04:23:06,514 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 04:23:06,514 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:06,918 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 04:23:06,919 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 04:23:06,919 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:07,210 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 04:23:07,210 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 04:23:07,210 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 04:23:07,210 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 04:23:07,211 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 04:23:07,211 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:07,772 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 04:23:07,772 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 04:23:07,772 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 04:23:07,773 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 04:23:07,773 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 04:23:07,773 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 04:23:07,773 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 04:23:07,773 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:08,067 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 04:23:08,067 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:08,361 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 04:23:08,362 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 04:23:08,785 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 04:23:08,785 - __main__ - INFO - end of main
+2015-07-21 04:23:08,785 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 04:23:08,785 - libs.test_fabric - INFO - Initailized the environment with Endpoints
+2015-07-21 04:23:08,844 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:23:08,844 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 04:23:09,109 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:23:09,109 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 04:23:09,153 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:23:09,153 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 04:23:13,380 - libs.test_fabric - INFO - Installed hping3 on 10.30.120.45
+2015-07-21 04:23:13,386 - libs.test_fabric - INFO - Installed hping3 on 10.30.120.46
+2015-07-21 23:38:20,272 - __main__ - INFO - Start the program
+2015-07-21 23:38:20,272 - __main__ - INFO - Initialize OSUtils
+2015-07-21 23:38:20,522 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 23:38:20,522 - __main__ - INFO - Get tenant details
+2015-07-21 23:38:20,523 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 23:38:20,631 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 23:38:20,631 - libs.os_get_env - INFO - **************************************************
+2015-07-21 23:38:20,631 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 23:38:20,631 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:20,947 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 23:38:20,947 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:21,398 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 23:38:21,398 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:21,805 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 23:38:21,805 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:22,196 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 23:38:22,197 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 23:38:22,197 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:22,496 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 23:38:22,496 - libs.os_get_env - INFO - l2p
+2015-07-21 23:38:22,496 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:22,868 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 23:38:22,868 - libs.os_get_env - INFO - general_linux
+2015-07-21 23:38:22,869 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:23,136 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 23:38:23,136 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:23,432 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 23:38:23,432 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:23,795 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 23:38:23,796 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:24,103 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 23:38:24,104 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 23:38:24,104 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:24,393 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 23:38:24,393 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 23:38:24,394 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 23:38:24,394 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 23:38:24,394 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 23:38:24,394 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:24,741 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 23:38:24,741 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 23:38:24,741 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 23:38:24,741 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 23:38:24,741 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 23:38:24,742 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 23:38:24,742 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 23:38:24,742 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:25,051 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 23:38:25,051 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 23:38:25,051 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 23:38:25,323 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:25,669 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 23:38:25,670 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:26,061 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 23:38:26,061 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:26,376 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 23:38:26,377 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:38:26,728 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 23:38:26,728 - __main__ - INFO - end of main
+2015-07-21 23:38:26,728 - libs.test_fabric - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 23:39:53,193 - __main__ - INFO - Start the program
+2015-07-21 23:39:53,193 - __main__ - INFO - Initialize OSUtils
+2015-07-21 23:39:53,387 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-21 23:39:53,387 - __main__ - INFO - Get tenant details
+2015-07-21 23:39:53,387 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-21 23:39:53,492 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-21 23:39:53,492 - libs.os_get_env - INFO - **************************************************
+2015-07-21 23:39:53,492 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-21 23:39:53,492 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:53,899 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-21 23:39:53,899 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:54,254 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-21 23:39:54,254 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:54,691 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-21 23:39:54,691 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:55,013 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-21 23:39:55,013 - libs.os_get_env - INFO - demo_l3p1
+2015-07-21 23:39:55,013 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:55,299 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-21 23:39:55,299 - libs.os_get_env - INFO - l2p
+2015-07-21 23:39:55,299 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:55,686 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-21 23:39:55,687 - libs.os_get_env - INFO - general_linux
+2015-07-21 23:39:55,687 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:56,000 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-21 23:39:56,000 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:56,409 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-21 23:39:56,409 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:56,757 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-21 23:39:56,757 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:57,087 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-21 23:39:57,088 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-21 23:39:57,088 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-21 23:39:57,392 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:57,798 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-21 23:39:57,799 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:58,105 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-21 23:39:58,105 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-21 23:39:58,105 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:58,418 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-21 23:39:58,418 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-21 23:39:58,418 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-21 23:39:58,419 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-21 23:39:58,419 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-21 23:39:58,419 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:58,827 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-21 23:39:58,827 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-21 23:39:58,828 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:59,138 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-21 23:39:59,138 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:59,555 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-21 23:39:59,556 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-21 23:39:59,892 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-21 23:39:59,892 - __main__ - INFO - end of main
+2015-07-21 23:39:59,892 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-21 23:39:59,893 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-21 23:39:59,967 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 23:39:59,967 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-21 23:40:00,234 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 23:40:00,234 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-21 23:40:00,284 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 23:40:00,284 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-21 23:40:02,920 - libs.traf_tester - INFO - Installed hping3 on 10.30.120.46
+2015-07-21 23:40:02,972 - libs.traf_tester - INFO - Installed hping3 on 10.30.120.45
+2015-07-22 00:17:12,472 - __main__ - INFO - Start the program
+2015-07-22 00:17:12,472 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:17:12,673 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:17:12,673 - __main__ - INFO - Get tenant details
+2015-07-22 00:17:12,673 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:17:12,765 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:17:12,765 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:17:12,765 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:17:12,765 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:13,239 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:17:13,240 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:13,812 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:17:13,812 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:14,295 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:17:14,296 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:14,580 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:17:14,580 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:17:14,580 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:14,897 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:17:14,898 - libs.os_get_env - INFO - l2p
+2015-07-22 00:17:14,898 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:15,286 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:17:15,286 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:17:15,286 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:15,578 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:17:15,578 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:15,916 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:17:15,916 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:16,309 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:17:16,309 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:16,636 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:17:16,636 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:17:16,636 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:17:16,923 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:17,293 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:17:17,293 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:17:17,293 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:17:17,293 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:17:17,294 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:17:17,294 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:17:17,294 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:17:17,294 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:17,589 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:17:17,590 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:17:17,590 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:17,899 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:17:17,900 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:17:17,900 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:17:17,900 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:17:17,900 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:17:17,900 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:18,284 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:17:18,285 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:18,587 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:17:18,587 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:18,876 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:17:18,876 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:17:19,261 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:17:19,262 - __main__ - INFO - end of main
+2015-07-22 00:17:19,262 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:17:19,262 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:17:19,333 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:17:19,334 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:17:19,603 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:17:19,609 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:17:19,647 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:17:19,676 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:17:22,204 - libs.traf_tester - INFO - Installed hping3 on 10.30.120.46
+2015-07-22 00:17:22,307 - libs.traf_tester - INFO - Installed hping3 on 10.30.120.45
+2015-07-22 00:19:32,361 - __main__ - INFO - Start the program
+2015-07-22 00:19:32,361 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:19:32,552 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:19:32,552 - __main__ - INFO - Get tenant details
+2015-07-22 00:19:32,552 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:19:32,628 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:19:32,628 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:19:32,628 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:19:32,628 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:32,925 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:19:32,926 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:33,270 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:19:33,271 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:33,642 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:19:33,642 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:34,006 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:19:34,007 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:19:34,007 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:34,449 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:19:34,449 - libs.os_get_env - INFO - l2p
+2015-07-22 00:19:34,449 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:35,115 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:19:35,115 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:19:35,115 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:35,430 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:19:35,430 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:35,757 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:19:35,757 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:36,111 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:19:36,112 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:36,601 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:19:36,601 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:19:36,601 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:19:36,916 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:37,325 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:19:37,326 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:37,640 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:19:37,640 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:19:37,640 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:37,954 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:19:37,954 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:19:37,954 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:19:37,954 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:19:37,954 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:19:37,955 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:38,350 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:19:38,350 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:19:38,350 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:19:38,350 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:19:38,350 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:19:38,351 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:19:38,351 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:19:38,351 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:38,659 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:19:38,659 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:39,086 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:19:39,086 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:19:39,550 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:19:39,550 - __main__ - INFO - end of main
+2015-07-22 00:19:39,551 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:19:39,551 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:20:23,270 - __main__ - INFO - Start the program
+2015-07-22 00:20:23,270 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:20:23,454 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:20:23,455 - __main__ - INFO - Get tenant details
+2015-07-22 00:20:23,455 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:20:23,536 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:20:23,536 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:20:23,536 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:20:23,537 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:23,850 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:20:23,850 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:24,132 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:20:24,132 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:24,487 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:20:24,488 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:24,774 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:20:24,774 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:20:24,775 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:25,080 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:20:25,081 - libs.os_get_env - INFO - l2p
+2015-07-22 00:20:25,081 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:25,449 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:20:25,449 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:20:25,449 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:25,777 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:20:25,778 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:26,076 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:20:26,076 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:26,474 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:20:26,474 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:26,786 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:20:26,786 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:20:26,787 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:20:27,139 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:20:27,507 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:20:27,508 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:20:27,508 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:27,863 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:20:27,863 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:20:27,863 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:28,180 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:20:28,180 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:20:28,180 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:20:28,180 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:20:28,181 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:20:28,181 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:28,516 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:20:28,517 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:20:28,517 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:20:28,517 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:20:28,517 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:20:28,517 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:20:28,518 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:20:28,518 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:28,809 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:20:28,809 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:29,102 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:20:29,103 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:20:29,488 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:20:29,488 - __main__ - INFO - end of main
+2015-07-22 00:20:29,488 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:20:29,488 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:20:29,613 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:20:29,640 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:20:29,868 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:20:29,914 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:20:29,918 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:20:29,978 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:23:39,716 - __main__ - INFO - Start the program
+2015-07-22 00:23:39,716 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:23:39,907 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:23:39,907 - __main__ - INFO - Get tenant details
+2015-07-22 00:23:39,907 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:23:39,995 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:23:39,995 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:23:39,995 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:23:39,995 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:40,388 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:23:40,388 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:40,732 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:23:40,733 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:41,115 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:23:41,115 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:41,424 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:23:41,425 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:23:41,425 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:41,731 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:23:41,731 - libs.os_get_env - INFO - l2p
+2015-07-22 00:23:41,731 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:42,093 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:23:42,094 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:23:42,094 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:42,444 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:23:42,445 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:42,774 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:23:42,774 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:43,113 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:23:43,114 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:43,451 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:23:43,452 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:23:43,452 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:43,779 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:23:43,779 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:23:43,780 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:23:43,780 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:23:43,780 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:23:43,780 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:44,141 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:23:44,141 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:23:44,142 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:44,523 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:23:44,523 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:23:44,523 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:23:44,848 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:45,178 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:23:45,179 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:23:45,179 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:23:45,179 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:23:45,179 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:23:45,179 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:23:45,180 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:23:45,180 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:45,453 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:23:45,453 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:45,760 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:23:45,761 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:23:46,131 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:23:46,131 - __main__ - INFO - end of main
+2015-07-22 00:23:46,131 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:23:46,131 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:23:46,234 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:23:46,240 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:23:46,526 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:23:46,532 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:23:46,574 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:23:46,574 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:28:01,779 - __main__ - INFO - Start the program
+2015-07-22 00:28:01,779 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:28:02,208 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:28:02,208 - __main__ - INFO - Get tenant details
+2015-07-22 00:28:02,208 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:28:02,286 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:28:02,286 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:28:02,286 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:28:02,286 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:02,677 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:28:02,678 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:02,993 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:28:02,993 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:03,393 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:28:03,394 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:03,731 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:28:03,731 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:28:03,731 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:04,032 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:28:04,032 - libs.os_get_env - INFO - l2p
+2015-07-22 00:28:04,032 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:04,628 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:28:04,628 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:28:04,628 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:04,929 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:28:04,929 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:05,262 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:28:05,262 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:05,618 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:28:05,618 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:05,914 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:28:05,914 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:28:05,915 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:06,314 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:28:06,314 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:28:06,315 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:28:06,315 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:28:06,315 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:28:06,315 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:06,708 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:28:06,709 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:07,016 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:28:07,016 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:28:07,017 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:07,366 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:28:07,367 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:28:07,367 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:28:07,367 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:28:07,367 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:28:07,367 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:07,695 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:28:07,695 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:28:07,695 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:28:07,695 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:28:07,696 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:28:07,696 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:28:07,696 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:28:07,696 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:07,961 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:28:07,961 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:08,266 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:28:08,266 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:28:08,639 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:28:08,639 - __main__ - INFO - end of main
+2015-07-22 00:28:08,640 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:28:08,640 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:28:08,690 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:28:08,935 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:28:08,986 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:29:14,984 - __main__ - INFO - Start the program
+2015-07-22 00:29:14,984 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:29:15,165 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:29:15,165 - __main__ - INFO - Get tenant details
+2015-07-22 00:29:15,165 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:29:15,242 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:29:15,243 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:29:15,243 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:29:15,243 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:15,566 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:29:15,566 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:15,875 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:29:15,875 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:16,223 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:29:16,223 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:16,690 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:29:16,690 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:29:16,690 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:17,021 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:29:17,021 - libs.os_get_env - INFO - l2p
+2015-07-22 00:29:17,021 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:17,482 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:29:17,482 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:29:17,482 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:17,756 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:29:17,756 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:18,057 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:29:18,057 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:18,422 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:29:18,422 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:18,739 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:29:18,739 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:29:18,739 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:29:19,116 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:19,508 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:29:19,508 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:29:19,508 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:29:19,508 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:29:19,508 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:29:19,509 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:29:19,509 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:29:19,509 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:19,840 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:29:19,840 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:29:19,840 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:29:20,127 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:20,569 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:29:20,569 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:29:20,570 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:20,873 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:29:20,874 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:21,157 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:29:21,157 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:29:21,504 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:29:21,504 - __main__ - INFO - end of main
+2015-07-22 00:29:21,505 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:29:21,505 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:29:21,557 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:29:21,808 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:29:21,862 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:36:05,637 - __main__ - INFO - Start the program
+2015-07-22 00:36:05,637 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:36:05,844 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:36:05,845 - __main__ - INFO - Get tenant details
+2015-07-22 00:36:05,845 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:36:05,948 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:36:05,948 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:36:05,948 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:36:05,948 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:06,290 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:36:06,290 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:06,739 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:36:06,739 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:07,113 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:36:07,113 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:07,412 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:36:07,412 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:36:07,412 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:07,719 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:36:07,719 - libs.os_get_env - INFO - l2p
+2015-07-22 00:36:07,720 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:08,078 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:36:08,078 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:36:08,078 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:08,367 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:36:08,367 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:08,662 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:36:08,662 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:09,244 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:36:09,244 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:09,548 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:36:09,548 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:36:09,548 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:09,873 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:36:09,873 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:36:09,873 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:36:09,873 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:36:09,874 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:36:09,874 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:10,205 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:36:10,205 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:36:10,206 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:10,501 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:36:10,501 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:36:10,501 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:36:10,790 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:11,145 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:36:11,145 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:36:11,145 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:36:11,145 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:36:11,146 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:36:11,146 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:36:11,146 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:36:11,146 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:11,429 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:36:11,429 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:11,722 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:36:11,723 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:36:12,444 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:36:12,444 - __main__ - INFO - end of main
+2015-07-22 00:36:12,444 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:36:12,444 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:36:12,492 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:36:12,757 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:36:12,803 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:36:22,966 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:36:23,241 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:36:23,294 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:37:42,775 - __main__ - INFO - Start the program
+2015-07-22 00:37:42,776 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:37:42,986 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:37:42,986 - __main__ - INFO - Get tenant details
+2015-07-22 00:37:42,986 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:37:43,066 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:37:43,066 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:37:43,066 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:37:43,067 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:43,375 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:37:43,375 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:43,720 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:37:43,720 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:44,092 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:37:44,092 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:44,396 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:37:44,396 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:37:44,397 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:44,676 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:37:44,676 - libs.os_get_env - INFO - l2p
+2015-07-22 00:37:44,676 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:45,015 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:37:45,015 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:37:45,016 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:45,420 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:37:45,420 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:45,940 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:37:45,940 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:46,308 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:37:46,309 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:46,629 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:37:46,629 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:37:46,629 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:37:47,083 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:37:47,439 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:37:47,440 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:47,731 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:37:47,732 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:37:47,732 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:48,041 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:37:48,041 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:37:48,041 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:37:48,042 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:37:48,042 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:37:48,042 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:48,391 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:37:48,391 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:37:48,391 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:37:48,391 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:37:48,391 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:37:48,392 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:37:48,392 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:37:48,392 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:48,680 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:37:48,680 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:48,973 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:37:48,973 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:37:49,584 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:37:49,584 - __main__ - INFO - end of main
+2015-07-22 00:37:49,584 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:37:49,584 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:37:49,638 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:37:49,898 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:37:49,957 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:38:00,145 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:38:00,396 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:38:00,449 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:43:00,626 - __main__ - INFO - Start the program
+2015-07-22 00:43:00,626 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:43:00,811 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:43:00,812 - __main__ - INFO - Get tenant details
+2015-07-22 00:43:00,812 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:43:00,911 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:43:00,911 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:43:00,911 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:43:00,911 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:01,229 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:43:01,229 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:01,532 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:43:01,532 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:01,995 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:43:01,995 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:02,380 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:43:02,380 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:43:02,380 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:02,787 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:43:02,787 - libs.os_get_env - INFO - l2p
+2015-07-22 00:43:02,787 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:03,143 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:43:03,143 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:43:03,143 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:03,574 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:43:03,574 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:03,865 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:43:03,865 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:04,231 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:43:04,231 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:04,522 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:43:04,522 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:43:04,522 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:43:04,819 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:05,184 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:43:05,184 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:43:05,184 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:43:05,185 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:43:05,185 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:43:05,185 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:43:05,185 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:43:05,185 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:05,492 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:43:05,492 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:43:05,492 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:05,794 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:43:05,794 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:43:05,794 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:43:05,794 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:43:05,795 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:43:05,795 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:06,401 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:43:06,401 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:43:06,401 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:43:06,401 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:43:06,401 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:43:06,402 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:43:06,402 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:43:06,402 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:06,711 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:43:06,711 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:06,997 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:43:06,998 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:07,346 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:43:07,346 - __main__ - INFO - end of main
+2015-07-22 00:43:07,347 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:43:07,347 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:43:07,418 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:43:07,698 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:43:07,762 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:43:08,950 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:43:09,204 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:43:09,250 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:43:42,302 - __main__ - INFO - Start the program
+2015-07-22 00:43:42,303 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:43:42,486 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:43:42,486 - __main__ - INFO - Get tenant details
+2015-07-22 00:43:42,486 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:43:42,575 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:43:42,575 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:43:42,575 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:43:42,575 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:42,992 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:43:42,993 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:43,331 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:43:43,332 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:43,701 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:43:43,701 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:43,985 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:43:43,985 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:43:43,985 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:44,312 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:43:44,312 - libs.os_get_env - INFO - l2p
+2015-07-22 00:43:44,312 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:44,904 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:43:44,904 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:43:44,905 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:45,191 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:43:45,191 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:45,555 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:43:45,555 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:45,904 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:43:45,905 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:46,217 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:43:46,218 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:43:46,218 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:46,535 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:43:46,536 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:43:46,536 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:43:46,536 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:43:46,536 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:43:46,537 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:46,863 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:43:46,863 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:43:46,864 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:47,179 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:43:47,179 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:43:47,179 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:43:47,478 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:47,815 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:43:47,816 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:48,106 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:43:48,106 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:48,393 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:43:48,393 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:43:48,997 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:43:48,997 - __main__ - INFO - end of main
+2015-07-22 00:43:48,998 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:43:48,998 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:43:49,067 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:43:49,328 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:43:49,387 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:43:50,576 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:43:50,830 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:43:50,867 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:49:01,622 - __main__ - INFO - Start the program
+2015-07-22 00:49:01,622 - __main__ - INFO - Initialize OSUtils
+2015-07-22 00:49:01,828 - libs.os_get_env - INFO - OSUtils intialized successfully
+2015-07-22 00:49:01,828 - __main__ - INFO - Get tenant details
+2015-07-22 00:49:01,828 - libs.os_get_env - INFO - Get tenant list from Keystone
+2015-07-22 00:49:01,938 - libs.os_get_env - INFO - 
+*
+*		Tenants
+*
+
+2015-07-22 00:49:01,938 - libs.os_get_env - INFO - **************************************************
+2015-07-22 00:49:01,938 - __main__ - INFO - Get GBP L3 policies per tenant
+2015-07-22 00:49:01,938 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:02,303 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-1
+*
+2015-07-22 00:49:02,303 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:02,642 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-1
+*
+2015-07-22 00:49:02,643 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:03,061 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-1
+*
+2015-07-22 00:49:03,061 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:03,361 - libs.os_get_env - INFO - 
+*
+*		L3Policies for demo
+*
+2015-07-22 00:49:03,362 - libs.os_get_env - INFO - demo_l3p1
+2015-07-22 00:49:03,362 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:03,656 - libs.os_get_env - INFO - 
+*
+*		L2Policies for demo
+*
+2015-07-22 00:49:03,656 - libs.os_get_env - INFO - l2p
+2015-07-22 00:49:03,656 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:04,094 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for demo
+*
+2015-07-22 00:49:04,094 - libs.os_get_env - INFO - general_linux
+2015-07-22 00:49:04,094 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:04,420 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-4
+*
+2015-07-22 00:49:04,420 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:04,742 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-4
+*
+2015-07-22 00:49:04,742 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:05,097 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-4
+*
+2015-07-22 00:49:05,097 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:05,432 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-2
+*
+2015-07-22 00:49:05,432 - libs.os_get_env - INFO - L3_0_sab-2
+2015-07-22 00:49:05,432 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:05,723 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-2
+*
+2015-07-22 00:49:05,723 - libs.os_get_env - INFO - L2_2_L3_0_sab-2
+2015-07-22 00:49:05,723 - libs.os_get_env - INFO - L2_0_L3_0_sab-2
+2015-07-22 00:49:05,723 - libs.os_get_env - INFO - L2_1_L3_0_sab-2
+2015-07-22 00:49:05,724 - libs.os_get_env - INFO - L2_3_L3_0_sab-2
+2015-07-22 00:49:05,724 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:06,103 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-2
+*
+2015-07-22 00:49:06,103 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-2
+2015-07-22 00:49:06,104 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:06,410 - libs.os_get_env - INFO - 
+*
+*		L3Policies for sab-3
+*
+2015-07-22 00:49:06,410 - libs.os_get_env - INFO - L3_0_sab-3
+2015-07-22 00:49:06,410 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:06,716 - libs.os_get_env - INFO - 
+*
+*		L2Policies for sab-3
+*
+2015-07-22 00:49:06,716 - libs.os_get_env - INFO - L2_3_L3_0_sab-3
+2015-07-22 00:49:06,716 - libs.os_get_env - INFO - L2_2_L3_0_sab-3
+2015-07-22 00:49:06,716 - libs.os_get_env - INFO - L2_1_L3_0_sab-3
+2015-07-22 00:49:06,717 - libs.os_get_env - INFO - L2_0_L3_0_sab-3
+2015-07-22 00:49:06,717 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for sab-3
+*
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - ptg_2_L2_2_L3_0_sab-3
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - ptg_3_L2_3_L3_0_sab-3
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - ptg_1_L2_1_L3_0_sab-3
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - ptg_0_L2_0_L3_0_sab-3
+2015-07-22 00:49:07,105 - libs.os_get_env - INFO - ptg_4_L2_0_L3_0_sab-3
+2015-07-22 00:49:07,106 - libs.os_get_env - INFO - ptg_5_L2_1_L3_0_sab-3
+2015-07-22 00:49:07,106 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:07,409 - libs.os_get_env - INFO - 
+*
+*		L3Policies for admin
+*
+2015-07-22 00:49:07,409 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:07,714 - libs.os_get_env - INFO - 
+*
+*		L2Policies for admin
+*
+2015-07-22 00:49:07,715 - libs.os_get_env - INFO - get gbpclient object for tenant
+2015-07-22 00:49:08,082 - libs.os_get_env - INFO - 
+*
+*		Policy Target Groups for admin
+*
+2015-07-22 00:49:08,083 - __main__ - INFO - end of main
+2015-07-22 00:49:08,083 - libs.traf_tester - INFO - RemoteUtils initialized with username and password, running in Fabric parallel mode
+2015-07-22 00:49:08,083 - libs.traf_tester - INFO - Initailized the environment with Endpoints
+2015-07-22 00:49:08,219 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:49:08,219 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_6.6.1)
+2015-07-22 00:49:08,508 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:49:08,508 - paramiko.transport - INFO - Authentication (publickey) failed.
+2015-07-22 00:49:08,545 - paramiko.transport - INFO - Authentication (password) successful!
+2015-07-22 00:49:08,549 - paramiko.transport - INFO - Authentication (password) successful!
